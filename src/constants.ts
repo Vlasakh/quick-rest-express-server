@@ -1,1 +1,1 @@
-export const REPORTS_PATH=''
+export const REPORTS_PATH = '';
